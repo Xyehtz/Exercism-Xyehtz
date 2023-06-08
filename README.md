@@ -5,5 +5,6 @@ Inside of this repository you'll find all the solutions to the exercism problems
 - Python
 - JavaScript
 - Lua
+- C#
 
 This is a provisional README file, it will be updated soon.
