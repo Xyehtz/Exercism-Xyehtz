@@ -1,10 +1,7 @@
 {
-  "errorLens.rulesCustomizations": {
-    "csharp": {
-        "RCS0045": { "enabled": false },
-        "RCS1163": { "enabled": false },
-        "IDE0060": { "enabled": false },
-        "RCS1037": { "enabled": false }
-    }
-  }
+  "dotnet.defaultSolution": "c#\\c#.sln",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }

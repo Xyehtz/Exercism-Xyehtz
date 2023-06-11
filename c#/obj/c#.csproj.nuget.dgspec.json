@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj": {}
+    "d:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj": {}
   },
   "projects": {
-    "D:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj": {
+    "d:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj",
+        "projectUniqueName": "d:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "D:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj",
+        "projectPath": "d:\\Programas\\VS Code\\Exercism\\c#\\c#.csproj",
         "packagesPath": "C:\\Users\\Xyehtz\\.nuget\\packages\\",
-        "outputPath": "D:\\Programas\\VS Code\\Exercism\\c#\\obj\\",
+        "outputPath": "d:\\Programas\\VS Code\\Exercism\\c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Xyehtz\\AppData\\Roaming\\NuGet\\NuGet.Config"
